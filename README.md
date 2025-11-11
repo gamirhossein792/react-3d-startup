@@ -21,6 +21,25 @@ An interactive **3D startup landing page** built with modern web technologies.
 
 ---
 
+## 🎨 Design & Prototype
+
+Interactive Figma prototype: [View on Figma](https://www.figma.com/design/efYbDyR2UowK68rPhgsUmg/3d-startup-app?m=auto&t=f27ae2vWoyf64b0j-6)
+
+## 🖥 Screenshots
+
+**Desktop view**  
+![Desktop Screenshot](assets/screenshots/desktop.png)
+
+**Mobile view**  
+![Mobile Screenshot](assets/screenshots/mobile.jpg)
+
+## 🎬 Screencast Demo
+
+<video width="600" controls>
+  <source src="assets/videos/output.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## ⚙️ Setup & Development
 
 Clone the repository and install dependencies:
