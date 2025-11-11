@@ -35,10 +35,7 @@ Interactive Figma prototype: [View on Figma](https://www.figma.com/design/efYbDy
 
 ## 🎬 Screencast Demo
 
-<video width="600" controls>
-  <source src="assets/videos/output.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the demo video](assets/videos/output.mp4)
 
 ## ⚙️ Setup & Development
 
