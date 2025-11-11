@@ -1,17 +1,33 @@
-# React + Vite
+# 🚀 3D Startup App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive **3D startup landing page** built with modern web technologies.
 
-Currently, two official plugins are available:
+## 🧩 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ **React + Vite** – for fast and modern development
+- 🎨 **Tailwind CSS** – for responsive and utility-first styling
+- 🌀 **AOS (Animate On Scroll)** – for smooth scroll-based animations
+- 🧊 **Spline 3D** – for interactive 3D scenes and elements
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🌈 Features
 
-## Expanding the ESLint configuration
+- ✅ Fully responsive design (mobile-first)
+- 🎬 Beautiful animations on scroll
+- 🧠 Lightweight and optimized performance
+- 🧩 Clean, modern UI built with Tailwind
+- 🌐 Easy to deploy on GitHub Pages or Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# react-3d-startup
+---
+
+## ⚙️ Setup & Development
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/gamirhossein792/react-3d-startup.git
+cd react-3d-startup
+npm install
+npm run dev
+```
