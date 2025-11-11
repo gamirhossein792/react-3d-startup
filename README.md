@@ -31,3 +31,7 @@ cd react-3d-startup
 npm install
 npm run dev
 ```
+
+## 🎨 Design & Prototype
+
+Interactive Figma prototype: [View on Figma](https://www.figma.com/design/efYbDyR2UowK68rPhgsUmg/3d-startup-app?m=auto&t=f27ae2vWoyf64b0j-6)
